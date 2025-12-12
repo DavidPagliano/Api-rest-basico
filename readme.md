@@ -1,5 +1,12 @@
-# Grupo 10
-## Integrantes: 
-* Pedro Traverso
-* Nicolas Canut
-* David Pagliano
+# Api-rest-basico
+## Tecnologias 
+* JavaScript
+* Express
+* Nodemon
+
+## Estructura del proyecto
+* src
+  * Controllers
+  * Datas
+  * Routes
+  * index.js
